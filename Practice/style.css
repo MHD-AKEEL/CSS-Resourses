@@ -1,10 +1,18 @@
-html{
-    background-color: bisque;
+#pixel {
+    font-size: 20px;
 }
-
-h1{
-    color: blue;
+#point {
+    font-size: 20pt;
 }
-
-h2{color: yellowgreen;
+#em {
+    font-size: 1em;
+}
+#rem {
+    font-size: 1rem;
+}
+#footer {
+    font-size: 12pt;
+}
+#html {
+    font-size: xx-large;
 }
